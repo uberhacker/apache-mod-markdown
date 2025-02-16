@@ -1,0 +1,24 @@
+{
+  "name": "@uberhacker/apache-mod-markdown",
+  "version": "1.0.2",
+  "keywords": [
+    "lando",
+    "lando-service",
+    "lando-plugin",
+    "apache-mod-markdown"
+  ],
+  "author": "Ed Reel @uberhacker",
+  "license": "GPL-3.0",
+  "_id": "@uberhacker/apache-mod-markdown@1.0.2",
+  "maintainers": [
+    {
+      "name": "uberhacker",
+      "email": "edreel@gmail.com"
+    }
+  ],
+  "homepage": "https://github.com/uberhacker/apache-mod-markdown",
+  "bugs": "https://github.com/uberhacker/apache-mod-markdown/issues/new",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
