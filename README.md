@@ -8,7 +8,7 @@ Lando plugin that installs an Apache webserver module to render Markdown files
 
 ## Installation (recommended)
 ```bash
-bash <$(curl -s https://tinyurl.com/3x2hnkhy)
+/bin/bash -c "$(curl -fsSL https://tinyurl.com/3x2hnkhy)"
 ```
 
 ## Installation (manual)
