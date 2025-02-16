@@ -28,3 +28,8 @@ services:
 ```
 2. Execute `lando rebuild -y`.
 3. Visit any URL in your browser that ends in `.md` to see the rendered HTML.
+
+## Uninstall
+```bash
+lando plugin-remove apache-mod-markdown
+```
