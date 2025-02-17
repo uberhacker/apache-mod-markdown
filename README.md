@@ -3,19 +3,11 @@ Lando plugin that installs an Apache webserver module to render Markdown files
 
 ## Requirements
 - [Lando](https://docs.lando.dev/getting-started/) 3.23.26 or later
-- [Node.js](https://nodejs.org/en/download/) 20 or later
 - A Lando application running Apache 2.4
 
-## Installation (recommended)
-```bash
-/bin/bash -c "$(curl -fsSL https://tinyurl.com/3x2hnkhy)"
-```
-
-## Installation (manual)
+## Installation
 ```bash
 lando plugin-add https://github.com/uberhacker/apache-mod-markdown
-cd ~/.lando/plugins/apache-mod-markdown
-npm install
 ```
 
 ## Usage
